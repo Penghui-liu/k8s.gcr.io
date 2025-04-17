@@ -1,1 +1,1 @@
-FROM rancher/shell:v0.3.1
+FROM rancher/mirrored-bci-micro:15.6.24.2
