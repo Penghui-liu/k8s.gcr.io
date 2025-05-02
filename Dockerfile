@@ -1,1 +1,1 @@
-FROM rancher/rancher-cleanup:latest
+FROM otel/opentelemetry-collector-contrib:0.125.0
